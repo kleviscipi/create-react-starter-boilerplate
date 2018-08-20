@@ -1,11 +1,12 @@
 {
-  "name": "create-react-starter-boilerplate",
-  "version": "1.0.0",
+  "name": "create-react-starter-mvc",
+  "version": "1.0.2",
   "description": "This package is for creating an app react version boilerplate with a clean structure",
   "main": "index.js",
+  "preferGlobal": "true",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "create":"node generate.js"
+    "create": "node generate.js"
   },
   "author": "Klevis Cipi",
   "license": "ISC",
@@ -13,5 +14,20 @@
     "child_process": "^1.0.2",
     "fs": "0.0.1-security",
     "path": "^0.12.7"
-  }
+  },
+  "bin": {
+    "create-react-starter-mvc": "generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/beklas/create-react-starter-boilerplate.git"
+  },
+  "keywords": [
+    "react",
+    "starter",
+    "react",
+    "boilerplate",
+    "framework"
+  ],
+  "homepage": "https://bitbucket.org/beklas/create-react-starter-boilerplate#readme"
 }

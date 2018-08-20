@@ -4,12 +4,11 @@ This project is for starting app with a nice structure, and without webpack conf
 
 ## Setup
 
-`git clone https://github.com/kleviscipi/react-starter.git`
+`git clone https://github.com/kleviscipi/react-core.git`
 
 `npm install`
 
 `npm start`
-
 
 The route links:
 
@@ -29,8 +28,11 @@ This app use react scripts for build and deploy and if you want to configure you
     "build": "npm run build-css && react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  },
+  }
 ```
 
+
+** Note
+This project is used to (https://www.npmjs.com/package/create-react-starter-mvc)[https://www.npmjs.com/package/create-react-starter-mvc]
 
 Thank You !
