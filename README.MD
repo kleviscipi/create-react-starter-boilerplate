@@ -1,4 +1,4 @@
-*** Create React Starter Bolerplate
+### Create React Starter Bolerplate
 This project was created for create a simply bolerplate react starter project.
 The react stater project have a simply structure like MVC and it is easy to understand and it help to create an a quicly react app.
 I home to elkp someone which is a react JS lover.
@@ -13,7 +13,7 @@ I home to elkp someone which is a react JS lover.
 
 ```
 
-** The starter project, directly
+## The starter project, directly
 
 (Github)[]
 
