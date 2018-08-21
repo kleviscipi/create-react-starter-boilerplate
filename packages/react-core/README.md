@@ -1,8 +1,12 @@
-## React Starter with bootstrap 4
+## React Starter Bolierplate with bootstrap 4
 
-This project is for starting app with a nice structure, and without webpack config
+### Note
 
-## Setup
+This project is used on [https://www.npmjs.com/package/create-react-starter-mvc](https://www.npmjs.com/package/create-react-starter-mvc)
+*I suggest to use the `create-react-starter-mvc` to generate the app bolerplate, read instructions from npm project following the above link.
+
+## Setup it directly
+
 
 `git clone https://github.com/kleviscipi/react-core.git`
 
@@ -31,8 +35,5 @@ This app use react scripts for build and deploy and if you want to configure you
   }
 ```
 
-
-** Note
-This project is used to (https://www.npmjs.com/package/create-react-starter-mvc)[https://www.npmjs.com/package/create-react-starter-mvc]
 
 Thank You !
