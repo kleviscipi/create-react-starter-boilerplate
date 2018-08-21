@@ -17,6 +17,6 @@ I hope to help someone which is a react JS developer.
 
 ## The starter project, directly
 
-[Github react-core](https://github.com/kleviscipi/react-core)
+[github-react-core](https://github.com/kleviscipi/react-core)
 
 Thank You.
