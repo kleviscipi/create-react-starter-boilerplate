@@ -1,8 +1,8 @@
 ### Create React Starter Bolerplate
 
-This project was created for create a simple bolerplate react starter project.
+This project generate a simple boilerplate react starter project.
 The react stater project have a simple structure like MVC and it's easy to understand and it can help to create a quickly react app.
-I hope to help someone which is a react JS.
+I hope to help someone which is a react JS developer.
 
 ## Install Globaly
 
@@ -17,6 +17,6 @@ I hope to help someone which is a react JS.
 
 ## The starter project, directly
 
-[https://github.com/kleviscipi/react-core](Github react-core)
+[Github react-core](https://github.com/kleviscipi/react-core)
 
 Thank You.
