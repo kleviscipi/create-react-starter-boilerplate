@@ -1,6 +1,6 @@
 {
   "name": "create-react-starter-mvc",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "This package is for creating an app react version boilerplate with a clean structure",
   "main": "index.js",
   "preferGlobal": "true",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/beklas/create-react-starter-boilerplate.git"
+    "url": "git+ssh://git@github.com:kleviscipi/react-core.git"
   },
   "keywords": [
     "react",
@@ -29,5 +29,5 @@
     "boilerplate",
     "framework"
   ],
-  "homepage": "https://bitbucket.org/beklas/create-react-starter-boilerplate#readme"
+  "homepage": "https://github.com/kleviscipi/create-react-starter-boilerplate#readme"
 }
