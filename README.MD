@@ -1,10 +1,10 @@
 ### Create React Starter Bolerplate
 
-This project was created for create a simply bolerplate react starter project.
-The react stater project have a simply structure like MVC and it is easy to understand and it help to create a quicly react app.
-I home to help someone which is a react JS lover.
+This project was created for create a simple bolerplate react starter project.
+The react stater project have a simple structure like MVC and it's easy to understand and it can help to create a quickly react app.
+I hope to help someone which is a react JS.
 
-## Install
+## Install Globaly
 
 ```
  npm install -g create-react-starter-mvc
