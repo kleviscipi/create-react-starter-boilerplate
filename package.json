@@ -1,6 +1,6 @@
 {
   "name": "create-react-starter-mvc",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "This package generate an app react boilerplate version with a clean structure",
   "main": "index.js",
   "preferGlobal": "true",

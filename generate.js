@@ -37,6 +37,9 @@ var initApp = function(args){
     if(typeof args[0] !="undefined" && args[0] !=""){
         let source = packagesDirReactBoilerplate;
         let nameApp = args[0]
+        if(nameApp =='create'){
+            nameApp = args[1]
+        }
         let destination = './'+nameApp; 
         console.log("Ok generate the react-starter-boilerplate with name: " + destination)
         if(isDev == false){
